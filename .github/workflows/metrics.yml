@@ -25,3 +25,8 @@ jobs:
           plugin_isocalendar_duration: full-year
           extras_css: |
             h1, h2, h3 { color: #2ea043 !important; }
+          # Drop rows whose value is zero ("0 Releases", "Member of 0 organizations")
+          extras_js: |
+            for (const field of document.querySelectorAll(".field"))
+              if (/(^|\s)0(\s|$)/.test(field.textContent.replace(/\s+/g, " ").trim()))
+                field.remove()
