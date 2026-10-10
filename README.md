@@ -5,28 +5,6 @@
 
 <br>
 
-### 💚 About me
-
-- 🖥️ **Computer Enjoyer.** I like to take things apart, see how they work and build my own.
-- 🐍 Most of what I write is **Python**: data pipelines, automation and small desktop tools.
-- ☕ Lately also **Java**: I'm building a game server, with Python tooling around it.
-- 📊 Into **data analysis** too: pandas, Jupyter notebooks and charts that tell a story.
-- 🌱 Position: **developer of the future**. Still learning every day.
-
-### 🧰 Tech I use
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3fb950">
-  <img alt="Java" src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=3fb950">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=3fb950">
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-161b22?style=for-the-badge&logo=pandas&logoColor=3fb950">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-161b22?style=for-the-badge&logo=numpy&logoColor=3fb950">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-161b22?style=for-the-badge&logo=jupyter&logoColor=3fb950">
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-161b22?style=for-the-badge&logo=playwright&logoColor=3fb950">
-  <img alt="Git" src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=3fb950">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=3fb950">
-</p>
-
 ### 📈 GitHub stats
 
 <p align="center">
