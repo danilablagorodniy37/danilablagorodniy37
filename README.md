@@ -3,7 +3,9 @@
   <img alt="blago1, Computer Enjoyer, developer of the future" src="./assets/header-light.svg" width="100%">
 </picture>
 
-<br>
+<p align="center">
+  <img alt="On GitHub since November 2020" src="https://img.shields.io/badge/on_GitHub_since-2020-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22">
+</p>
 
 ### 💚 About me
 
