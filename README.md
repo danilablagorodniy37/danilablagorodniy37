@@ -3,9 +3,7 @@
   <img alt="blago1, Computer Enjoyer, developer of the future" src="./assets/header-light.svg" width="100%">
 </picture>
 
-<p align="center">
-  <img alt="On GitHub since November 2020" src="https://img.shields.io/badge/on_GitHub_since-2020-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22">
-</p>
+<br>
 
 ### 💚 About me
 
@@ -27,6 +25,12 @@
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-161b22?style=for-the-badge&logo=playwright&logoColor=3fb950">
   <img alt="Git" src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=3fb950">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=3fb950">
+</p>
+
+### 📈 GitHub stats
+
+<p align="center">
+  <img alt="My GitHub stats: when I joined, activity, community, repositories and a year of commits" src="./github-metrics.svg">
 </p>
 
 ### 🚀 Featured projects

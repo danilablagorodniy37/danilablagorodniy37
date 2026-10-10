@@ -1,0 +1,27 @@
+name: GitHub metrics
+
+on:
+  schedule:
+    - cron: "41 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  render:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Render the stats card and commit it as github-metrics.svg
+        uses: lowlighter/metrics@latest
+        with:
+          # A personal access token without scopes is enough for these sections
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          base: header, activity, community, repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          extras_css: |
+            h1, h2, h3 { color: #2ea043 !important; }
