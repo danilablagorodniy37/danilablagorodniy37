@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img alt="blago1, Python and AI automation engineer in the UK" src="./assets/header-light.svg" width="100%">
+  <img alt="blago1, Python and AI engineer in the UK" src="./assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">
