@@ -32,9 +32,9 @@
       <br><br><code>Python</code> <code>RAG</code> <code>Claude API</code> <code>FastAPI</code> <code>pgvector</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/danilablagorodniy37/AutoIndeed">AutoIndeed</a></h4>
-      A semi-automated job application helper. A visible browser fills in Indeed Apply forms from my profile, a growing answer store and Claude, and leaves anything it is unsure about for me to review.
-      <br><br><code>Python</code> <code>Playwright</code> <code>Claude API</code>
+      <h4>🏫 <a href="https://www.upwork.com/freelancers/~01cb77ac692f720f4e">Email AI for a London school</a></h4>
+      Client work, Apr to Aug 2026, code private. Staff open an enquiry, the app drafts a reply from the school's own templates and a person sends it. Personal data is tokenised before any model call; 1,100+ tests. Designed, built and deployed end to end.
+      <br><br><code>Python</code> <code>FastAPI</code> <code>RAG</code> <code>GDPR</code>
     </td>
   </tr>
 </table>
