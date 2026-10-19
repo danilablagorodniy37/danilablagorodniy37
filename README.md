@@ -5,7 +5,8 @@
 
 <p align="center">
   I build Python and n8n automations, CRM integrations and AI assistants where a person approves what goes out.<br>
-  Based in Surrey, UK. Open to work: <a href="https://www.upwork.com/freelancers/~01cb77ac692f720f4e">Upwork</a> · local IT support at <a href="https://blagotech.uk">blagotech.uk</a>
+  Based in Surrey, UK. Open to work: <a href="https://www.upwork.com/freelancers/~01cb77ac692f720f4e">Upwork</a> · local IT support at <a href="https://blagotech.uk">blagotech.uk</a><br>
+  Contributor to CPython: <a href="https://github.com/python/cpython/pull/159156">a fix to Content-Length parsing in <code>http.client</code></a>, merged October 2026.
 </p>
 
 <br>
