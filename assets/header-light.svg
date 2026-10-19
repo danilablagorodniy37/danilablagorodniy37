@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="blago1, Computer Enjoyer, developer of the future">
-<title>blago1, Computer Enjoyer, developer of the future</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="blago1, Python and AI automation engineer in the UK">
+<title>blago1, Python and AI automation engineer in the UK</title>
 <defs>
 	<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f0fbf3"/></linearGradient>
 	<linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
@@ -10,8 +10,8 @@
 	</radialGradient>
 	<mask id="edges"><rect width="1200" height="320" fill="url(#fade)"/></mask>
 	<clipPath id="card"><rect width="1200" height="320" rx="18"/></clipPath>
-	<clipPath id="typed"><rect x="225" y="225" width="0" height="56">
-		<animate attributeName="width" from="0" to="754" begin="0.8s" dur="2.6s" fill="freeze"/>
+	<clipPath id="typed"><rect x="298" y="225" width="0" height="56">
+		<animate attributeName="width" from="0" to="659" begin="0.8s" dur="2.6s" fill="freeze"/>
 	</rect></clipPath>
 	<filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
 		<feGaussianBlur stdDeviation="10" result="b"/>
@@ -25,11 +25,11 @@
 	<text x="600" y="96" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22" fill="#1a7f37" opacity="0.85">~ $ whoami</text>
 	<text x="600" y="196" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="128" font-weight="800" textLength="500" lengthAdjust="spacingAndGlyphs" fill="url(#name)" filter="url(#glow)">blago1</text>
 	<g clip-path="url(#typed)">
-		<text x="225" y="266" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="28" textLength="700" lengthAdjust="spacingAndGlyphs" fill="#1f2328">Computer Enjoyer · developer of the future</text>
+		<text x="298" y="266" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="28" textLength="605" lengthAdjust="spacingAndGlyphs" fill="#1f2328">Python &amp; AI automation engineer · UK</text>
 		<g fill="#2da44e"><rect x="947" y="243" width="4" height="4"/><rect x="951" y="243" width="4" height="4"/><rect x="963" y="243" width="4" height="4"/><rect x="967" y="243" width="4" height="4"/><rect x="943" y="247" width="4" height="4"/><rect x="947" y="247" width="4" height="4"/><rect x="951" y="247" width="4" height="4"/><rect x="955" y="247" width="4" height="4"/><rect x="959" y="247" width="4" height="4"/><rect x="963" y="247" width="4" height="4"/><rect x="967" y="247" width="4" height="4"/><rect x="971" y="247" width="4" height="4"/><rect x="943" y="251" width="4" height="4"/><rect x="947" y="251" width="4" height="4"/><rect x="951" y="251" width="4" height="4"/><rect x="955" y="251" width="4" height="4"/><rect x="959" y="251" width="4" height="4"/><rect x="963" y="251" width="4" height="4"/><rect x="967" y="251" width="4" height="4"/><rect x="971" y="251" width="4" height="4"/><rect x="943" y="255" width="4" height="4"/><rect x="947" y="255" width="4" height="4"/><rect x="951" y="255" width="4" height="4"/><rect x="955" y="255" width="4" height="4"/><rect x="959" y="255" width="4" height="4"/><rect x="963" y="255" width="4" height="4"/><rect x="967" y="255" width="4" height="4"/><rect x="971" y="255" width="4" height="4"/><rect x="947" y="259" width="4" height="4"/><rect x="951" y="259" width="4" height="4"/><rect x="955" y="259" width="4" height="4"/><rect x="959" y="259" width="4" height="4"/><rect x="963" y="259" width="4" height="4"/><rect x="967" y="259" width="4" height="4"/><rect x="951" y="263" width="4" height="4"/><rect x="955" y="263" width="4" height="4"/><rect x="959" y="263" width="4" height="4"/><rect x="963" y="263" width="4" height="4"/><rect x="955" y="267" width="4" height="4"/><rect x="959" y="267" width="4" height="4"/></g>
 	</g>
-	<rect x="225" y="240" width="12" height="32" rx="2" fill="#1a7f37">
-		<animate attributeName="x" from="225" to="983" begin="0.8s" dur="2.6s" fill="freeze"/>
+	<rect x="298" y="240" width="12" height="32" rx="2" fill="#1a7f37">
+		<animate attributeName="x" from="298" to="961" begin="0.8s" dur="2.6s" fill="freeze"/>
 		<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
 	</rect>
 </g>
