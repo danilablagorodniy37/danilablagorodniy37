@@ -15,24 +15,24 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔁 <a href="https://github.com/danilablagorodniy37/n8n-lead-intake">n8n lead intake</a></h4>
+      <h4><a href="https://github.com/danilablagorodniy37/n8n-lead-intake">n8n lead intake</a></h4>
       Website enquiry to CRM to an owner-approved AI reply. Three n8n workflows and a Python engine: one contact per person however they typed it, the owner approves every reply with one tap in Telegram. 200 test enquiries, 0 duplicate contacts; also run against a live HubSpot test account.
       <br><br><code>n8n</code> <code>Python</code> <code>FastAPI</code> <code>HubSpot API</code> <code>Telegram</code> <code>Docker</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🧭 <a href="https://github.com/danilablagorodniy37/hubspot-workflow-lab">HubSpot workflow lab</a></h4>
+      <h4><a href="https://github.com/danilablagorodniy37/hubspot-workflow-lab">HubSpot workflow lab</a></h4>
       Taking over someone else's HubSpot workflows: map them, reproduce a follow-up bug, fix it and prove the fix with scripted contacts in a developer sandbox. Inherited workflow: 2 wrong follow-ups out of 3. Fixed: 0.
       <br><br><code>HubSpot Workflows API</code> <code>Python</code> <code>CRM</code> <code>Testing</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>✉️ <a href="https://github.com/danilablagorodniy37/inboxdraft">inboxdraft</a></h4>
+      <h4><a href="https://github.com/danilablagorodniy37/inboxdraft">inboxdraft</a></h4>
       AI-drafted replies to customer emails from a firm's own documents, with citations. Personal details are replaced before any model call (0 of 154 reach the model in the evaluation set), and a person sends every email.
       <br><br><code>Python</code> <code>RAG</code> <code>Claude API</code> <code>FastAPI</code> <code>pgvector</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🏫 <a href="https://www.upwork.com/freelancers/~01cb77ac692f720f4e">Email AI for a London school</a></h4>
+      <h4><a href="https://www.upwork.com/freelancers/~01cb77ac692f720f4e">Email AI for a London school</a></h4>
       Client work, Apr to Aug 2026, code private. Staff open an enquiry, the app drafts a reply from the school's own templates and a person sends it. Personal data is tokenised before any model call; 1,100+ tests. Designed, built and deployed end to end.
       <br><br><code>Python</code> <code>FastAPI</code> <code>RAG</code> <code>GDPR</code>
     </td>
@@ -43,9 +43,9 @@
   <summary>Earlier work</summary>
   <br>
 
-- 🌦️ [Weather data pipeline](https://github.com/danilablagorodniy37/BSU): validates a year of raw weather observations, derives daily metrics and writes a summary report; ships as a single `.exe`.
-- 📊 [User behaviour analysis](https://github.com/danilablagorodniy37/User-Behavior-Analysis-for-Kindred-Group): engagement, session length and churn on synthetic data in a notebook.
-- 🛠️ [SimpleTool](https://github.com/danilablagorodniy37/SimpleTool): a small desktop app that switches off Windows telemetry, ads and sync with one click each.
+- [Weather data pipeline](https://github.com/danilablagorodniy37/BSU): validates a year of raw weather observations, derives daily metrics and writes a summary report; ships as a single `.exe`.
+- [User behaviour analysis](https://github.com/danilablagorodniy37/User-Behavior-Analysis-for-Kindred-Group): engagement, session length and churn on synthetic data in a notebook.
+- [SimpleTool](https://github.com/danilablagorodniy37/SimpleTool): a small desktop app that switches off Windows telemetry, ads and sync with one click each.
 
 </details>
 
