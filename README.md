@@ -59,13 +59,4 @@
 <p align="center">
   <img alt="My GitHub stats: when I joined, activity, community, repositories and a year of commits" src="./github-metrics.svg">
 </p>
-
-
-### 🐍 My contributions, eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danilablagorodniy37/danilablagorodniy37/output/github-snake-dark.svg">
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/danilablagorodniy37/danilablagorodniy37/output/github-snake.svg" width="100%">
-</picture>
-
 <p align="center"><sub>💚 thanks for stopping by</sub></p>
