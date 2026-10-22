@@ -40,16 +40,6 @@
   </tr>
 </table>
 
-<details>
-  <summary>Earlier work</summary>
-  <br>
-
-- [Weather data pipeline](https://github.com/danilablagorodniy37/BSU): validates a year of raw weather observations, derives daily metrics and writes a summary report; ships as a single `.exe`.
-- [User behaviour analysis](https://github.com/danilablagorodniy37/User-Behavior-Analysis-for-Kindred-Group): engagement, session length and churn on synthetic data in a notebook.
-- [SimpleTool](https://github.com/danilablagorodniy37/SimpleTool): a small desktop app that switches off Windows telemetry, ads and sync with one click each.
-
-</details>
-
 <p align="right"><a href="https://github.com/danilablagorodniy37?tab=repositories">more in my repositories →</a></p>
 
 <br>
